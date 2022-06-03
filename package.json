@@ -28,6 +28,8 @@
         "ios",
         "!ios/build",
         "dist",
+        "src",
+        "tsconfig.json",
         "RNFastImage.podspec"
     ],
     "scripts": {
